@@ -49,7 +49,7 @@ img {
 	background-position :bottom;
 }
 #header div {
-	width :960px;
+	width :1300px;
 	margin :0 auto;
 	height :203px;
 	position :relative;
@@ -73,7 +73,7 @@ img {
 	left :0px;
 	top :160px;
 	overflow :hidden;
-	width :620px;
+	width :1300px;
 }
 #header div ul.navigation li {
 	float :left;
@@ -83,7 +83,7 @@ img {
 }
 #header div ul.navigation li a {
 	text-decoration :none;
-	padding :0 30px;
+	padding :0 10px;
 	color :#ebe9d7;
 	font-family :'Lobster1.4Regular';
 	font-size :16px;
@@ -97,12 +97,12 @@ img {
 	color :#ebe9d7;
 }
 #body {
-	width :960px;
+	width :1300px;
 	margin :0 auto;
 	overflow :hidden;
 }
 #body .featured {
-	width :960px;
+	width :1300px;
 	overflow :hidden;
 	margin-bottom :0;
 }
@@ -149,7 +149,7 @@ img {
 	padding :8px 22px 22px 18px;
 }
 #body #content {
-	width :960px;
+	width :1300px;
 	margin :30px 0;
 	height :auto;
 	padding-top :18px;
@@ -158,7 +158,7 @@ img {
 	background-repeat :no-repeat;
 }
 #body #content div {
-	width :960px;
+	width :1300px;
 	background :transparent url("../images/bg-content-bottom.png");
 	background-position :center bottom;
 	background-repeat :no-repeat;
@@ -627,7 +627,7 @@ img {
 	background-color :#1b6568;
 }
 #footer div {
-	width :960px;
+	width :1300px;
 	margin :0 auto;
 }
 #footer div ul {
