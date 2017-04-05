@@ -6,4 +6,4 @@
   {% endfor %}
 </ul>
 
- ![screams in American](/img/eagle_menu.png)
+ !(/img/eagle_menu.png)
