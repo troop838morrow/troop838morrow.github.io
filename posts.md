@@ -1,3 +1,9 @@
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -7,3 +13,9 @@
 </ul>
 
  ![](/img/eagle_menu.png)
+
+
+      </section>
+      <footer>
+      </footer>
+    </div>
