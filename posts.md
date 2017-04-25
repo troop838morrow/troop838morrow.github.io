@@ -6,4 +6,3 @@
   {% endfor %}
 </ul>
 
- ![](/img/eagle_menu.png)
