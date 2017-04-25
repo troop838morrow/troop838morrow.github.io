@@ -70,8 +70,8 @@ strong {
 }
 
 .wrapper {
-  width:1050px;
-  margin:0 auto;
+  width:100%;
+  margin:10px;
   position:relative;
 }
 
@@ -184,9 +184,8 @@ header {
 #banner {
   z-index: 100;
   left:0;
-  right:50%;
   height: 50px;
-  margin-right:-382px;
+  width:100%;
   position: fixed;
   top: 95px;
   background: #336600;
