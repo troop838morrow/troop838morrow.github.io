@@ -1,8 +1,8 @@
 E-mail us at: <br>
-Troop838@gmail.com
+[Troop838@gmail.com](mailto:Troop838@gmail.com)
 
 Follow us on Facebook: <br>
-https://www.facebook.com/Troop838/
+[https://www.facebook.com/Troop838/](https://www.facebook.com/Troop838/)
 
 
 Come visit us at one of our meetings at Morrow UMC: <br>
