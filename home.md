@@ -8,7 +8,7 @@
           <hr>
         {% endfor %}
       </td>
-      <td width=470px>
+      <td style="width: 470px;">
         <p>
           What Every Scout Should Know:
         </p>
