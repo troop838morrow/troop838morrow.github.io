@@ -1,5 +1,5 @@
 <table>
-  <tbody>
+  <tbody style="vertical-align: top;">
     <tr>
       <td>
         {% for post in site.posts %}
@@ -8,7 +8,7 @@
           <hr>
         {% endfor %}
       </td>
-      <td>
+      <td width=470px>
         <p>
           What Every Scout Should Know:
         </p>
