@@ -7,6 +7,7 @@ Youths must be in 5th grade or 11 years old on the date of application.
 Adults must complete an application and submit it with their Youth Protection Training certificate.
 The training can be found here:
 http://www.scouting.org/Training/YouthProtection.aspx
+[BSAYouthProtectionTraining](http://www.scouting.org/Training/YouthProtection.aspx)
 
 
 To be an active Scout in Troop 838, you must be a registered memeber of the Troop 
