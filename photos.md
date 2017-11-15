@@ -1,7 +1,7 @@
 # Troop photos
 
 ### Conservation Campout Pictures
-![Troop](/photos/1.jpg)
+![Troop](/photos/Court Of Honor September 2016.jpg)
 
 
 
