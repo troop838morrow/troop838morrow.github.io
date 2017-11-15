@@ -1,10 +1,24 @@
 # Troop photos
 
-
 ### Conservation Campout Pictures
 ![Troop](/photos/1.jpg)
+
+
+
+
+
 ![Troop](/photos/2.jpg)
+
+
+
+
+
 ![Troop](/photos/3.jpg)
+
+
+
+
+
 ![Troop](/photos/4.jpg)
 ![Troop](/photos/5.jpg)
 ![Troop](/photos/6.jpg)
@@ -14,6 +28,8 @@
 ![Troop](/photos/10.jpg)
 ![Troop](/photos/11.jpg)
 ![Troop](/photos/12.jpg)
+
+
 
 
 
