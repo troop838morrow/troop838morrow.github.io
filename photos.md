@@ -2,8 +2,9 @@
 
 
 ### Conservation Campout Pictures
-![Troop](/photos/Conservation Campout 1c.JPG)
-![Troop](/photos/Conservation Campout 3c.JPG) 
+![Troop](/photos/Conservation Campout 1a.JPG)
+![Troop](/photos/Conservation Campout 2a.JPG) 
+![Troop](/photos/Conservation Campout 3a.JPG) 
 
 
 
