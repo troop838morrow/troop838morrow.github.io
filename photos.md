@@ -1,7 +1,7 @@
 # Troop photos
 
 
-### Conservation Campout Pictures
+### Conservation Campout at Camp Friedlander - November 2017
 ![Troop](/photos/Conservation Campout 1a.JPG)
 ![Troop](/photos/Conservation Campout 2a.JPG) 
 ![Troop](/photos/Conservation Campout 3a.JPG) 
