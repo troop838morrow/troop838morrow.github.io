@@ -11,7 +11,7 @@
 
 
 
-### Offical Camp Friedlander Picture
+### Official Camp Friedlander Picture
 ![Troop](/photos/mascot pic.jpg)
 
 
