@@ -6,9 +6,10 @@
 ![Troop](/photos/Conservation Campout 7a.JPG)
 ![Troop](/photos/Conservation Campout 10a.JPG)
 
-
-
-
+### Summer Camp 2017
+![Troop](/photos/mascot pic.jpg)
+![Troop](/photos/mascot pic.jpg)
+![Troop](/photos/mascot pic.jpg)
 
 
 ### Official Camp Friedlander Picture
