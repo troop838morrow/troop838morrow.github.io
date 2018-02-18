@@ -1,6 +1,16 @@
 # Troop photos
 
 
+
+
+
+### Blue and Gold Banquet Pack 36 2018
+![Troop](/photos/New Member.JPG)
+
+
+
+
+
 ### Conservation Campout at Camp Friedlander - November 2017
 ![Troop](/photos/Conservation Campout 1a.JPG)
 ![Troop](/photos/Conservation Campout 7a.JPG)
