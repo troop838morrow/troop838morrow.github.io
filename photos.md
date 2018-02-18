@@ -5,7 +5,7 @@
 
 
 ### 2018 Crossover from Pack 36
-![Troop](/photos/New Member 2018a.JPG)
+![Troop](/photos/New Member 2018.JPG)
 
 
 
