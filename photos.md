@@ -4,7 +4,7 @@
 
 
 
-### Blue and Gold Banquet Pack 36 2018
+### 2018 Crossover from Pack 36
 ![Troop](/photos/New Member 2018a.JPG)
 
 
