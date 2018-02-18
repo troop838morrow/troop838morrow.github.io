@@ -5,7 +5,7 @@
 
 
 ### Blue and Gold Banquet Pack 36 2018
-![Troop](/photos/New Member.JPG)
+![Troop](/photos/New Member 2018a.JPG)
 
 
 
