@@ -14,15 +14,17 @@ A: My eagle project was building a shed and gravel pathway and some perineal bed
 
 Q: What was your favorite troop position and why?
 
-A: My favorite troop position was SPL because I could help out all of the scouts.
+A: My favorite troop position was SPL because I could help out all of the Scouts.
 
-Q: What are 2-3 of your favorite memories from Boy Scouts?
+Q: What are some of your favorite memories from Boy Scouts?
 
 A: My favorite memories would have to be all of the different campouts and learning so much over the years.
 
-Q: What advice would you give to new scouts?
+Q: What advice would you give to new Scouts?
 
-A:The advice that I would give would be if you feel like you can’t do it ask for help and you shall receive it.  Also if you need help don’t be afraid to ask for it. 
+A:The advice that I would give would be if you feel like you can’t do it ask for help and you shall receive it.  Also, if you need help don’t be afraid to ask for it. 
+
+
 
 NICK STACEY
 
