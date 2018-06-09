@@ -2,7 +2,7 @@
 
 Here we will celebrate and honor our Eagle Scouts.
 
-ZACH BLOW
+# ZACH BLOW
 
 Q: What are you doing now?
 
@@ -24,11 +24,7 @@ Q: What advice would you give to new Scouts?
 
 A:The advice that I would give would be if you feel like you can’t do it ask for help and you shall receive it.  Also, if you need help don’t be afraid to ask for it. 
 
-
-
-
-
-NICK STACEY
+# NICK STACEY
 
 Q: What are you doing now?
 
