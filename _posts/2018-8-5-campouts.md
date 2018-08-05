@@ -2,7 +2,7 @@
 layout: post
 title:  "What kinds of campouts do we go on?"
 date:   2018-08-05
-categories:Campouts
+categories: PLC
 ---
 Interested in joining Troop 838 but don't know what we do?
 Take a peek at what our Scouts have said they want to do...
