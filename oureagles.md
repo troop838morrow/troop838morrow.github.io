@@ -2,6 +2,45 @@
 
 Here we will celebrate and honor our Eagle Scouts.
 
+# JAKE BURNS
+
+Q: What are you doing now?
+
+A: Right now I am currently living in Asheville, North Carolina as a working musician. I am the acting 
+manager, booking agent and lead singer and guitarist for a touring rock band named Rockstead as well as 
+book and perform my own solo shows.
+
+Q: What was your Eagle Project?
+
+A:For my Eagle Scout project I raised the funds for and organized the installation of the illuminated sign
+for the Salem Township public library. This involved collecting donations from local businesses, writing 
+to our governors and congressmen and woman as well as working with our local library to design a sign a 
+develop the best overall plan.
+
+Q: What was your favorite troop position and why?
+
+A:The position I enjoyed most was Senior Patrol Leader. This was because I liked to communicate with each
+individual Patrol Leader on what they were doing and their plans for their specific patrols. From there,
+watching how they carried out their said plan and how each scout advanced accordingly was really cool to see.
+
+Q: What are some of your favorite memories from Boy Scouts?
+
+A: Easily one of my favorite memories from Boy Scouts was when our troop spent a week out on the Boundary Waters
+in Northern Minnesota. We canoed from island to island with all our own provisions. There was rain, heat, bugs,
+extremely long paddles and portages but the serenity of the land and the wildlife we saw made it all worth it.
+    Another one of my favorite memories was always the Klondike Derby. Teaming up with your friends in the snow
+was always a good time and preparing for all the events leading up to the day was exciting with everything being
+a time trial. Definitely miss those events.
+
+Q: What advice would you give to new Scouts?
+
+A:To new scouts I would say the whole experience is what you make of it. I hear so many kids dropping out of
+Scouts because they claim their troop "doesn't do anything". If you're troop isn't doing what you want it to do,
+speak up! Talk to your Senior Patrol leader or the rest of your troop about your vision and what activities you
+want to be participating in. Organize fund raisers, reach out to local businesses for sponsors, get everyone on
+the same page and work together to achieve your goals because in the end, when you reach your Eagle Scout rank,
+you can be proud of what you accomplished for not only yourself but for your troop as a whole.
+
 # ZACH BLOW
 
 Q: What are you doing now?
