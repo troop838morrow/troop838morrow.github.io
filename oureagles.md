@@ -2,6 +2,32 @@
 
 Here we will celebrate and honor our Eagle Scouts.
 
+# JOSH HULTGREN
+
+Q: What are you doing now?
+
+A:I'm serving as an infantryman in the US Army
+
+Q: What was your Eagle Project?
+
+A:I built a 40ft boardwalk at Fort Ancient state reserve
+ 
+Q: What was your favorite troop position and why?
+
+A:My favorite troop position was troop guide, because I got to help newer scouts with the transition
+from Webelo to Boyscout and help them get to know the troop.
+
+Q: What are some of your favorite memories from Boy Scouts?
+
+A:Some of my favorite memories from scouting are pranks at summer camp, and backpacking in the Boundary
+Waters
+
+Q: What advice would you give to new Scouts?
+
+A:Some advice that I would like to give the scouts is that making Eagle is worth the time and effort because
+it benefits you in later life. For instance I enlisted as an E-2 rather and an E-1 when I joined the Army.
+And Eagle Scout always looks good on a resume.
+
 # JAKE BURNS
 
 Q: What are you doing now?
