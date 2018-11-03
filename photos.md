@@ -1,7 +1,7 @@
 # Troop photos
 
 
-### Troop 838 At Band Fest
+### Little Miami Band Fest
 ![Troop](/photos/Bandfest.JPG)
 
 
