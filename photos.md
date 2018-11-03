@@ -3,7 +3,7 @@
 
 ### Happy Halloween!
 ![Troop](/photos/Halloween1.jpeg)
-![Troop](/photos/Halloween2.jpeg)
+![Troop](/photos/Halloween3.jpeg)
 
 
 
