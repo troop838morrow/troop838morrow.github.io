@@ -1,6 +1,6 @@
 # Troop photos
 ### Troop 838 At Band Fest
-![Troop](/photos/band fest.JPG)
+![Troop](/photos/bandfest.JPG)
 ### Dhruv's Eagle Project
 ![Troop](/photos/Dhruv1.JPG)
 ![Troop](/photos/Dhruv2.JPG)
