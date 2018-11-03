@@ -1,6 +1,6 @@
 # Troop photos
 ### Troop 838 At Band Fest
-![Troop](/photos/Band fest.JPG)
+![Troop](/photos/Bandfest.JPG)
 
 
 
