@@ -1,6 +1,13 @@
 # Troop photos
 
 
+### Happy Halloween!
+![Troop](/photos/Halloween1.jpeg)
+![Troop](/photos/Halloween2.jpeg)
+
+
+
+
 ### Little Miami Band Fest
 ![Troop](/photos/Bandfest.JPG)
 
