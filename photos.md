@@ -3,7 +3,7 @@
 
 
 ### Fall Court Of Honor
-![Troop](/photos/Court of Honor.jpg)
+![Troop](/photos/CourtofHonor.jpg)
 
 
 
