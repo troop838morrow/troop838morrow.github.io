@@ -1,6 +1,12 @@
 # Troop photos
 
 
+### Fall Court Of Honor
+![Troop](/photos/Court of Honor.jpg)
+
+
+
+
 ### Happy Halloween!
 ![Troop](/photos/Halloween1.jpeg)
 ![Troop](/photos/Halloween3.jpeg)
