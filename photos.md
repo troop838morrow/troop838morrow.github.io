@@ -36,7 +36,7 @@
 
 
 
-### 2018 Crossover from Pack 36 - Welcome Eli Kosobud
+### 2018 Crossover from Pack 36 - Welcome Eli
 ![Troop](/photos/New Member 2018.JPG)
 
 
