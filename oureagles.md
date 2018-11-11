@@ -5,9 +5,13 @@
 
 
 
+
 # Steven Hill
 
-![Troop](/photos/Steven Hill1.jpeg)
+
+![Troop](/eagle/Steven Hill1.jpeg)
+
+
 Steven Hill - Eagle Scout 2010
 
 1. What are you doing now?
