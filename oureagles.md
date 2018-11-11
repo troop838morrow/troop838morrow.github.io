@@ -9,7 +9,7 @@
 # Steven Hill
 
 
-![Troop](/eagle/Steven Hill1.jpeg)
+![Troop](/photos/Steven Hill1.jpeg)
 
 
 Steven Hill - Eagle Scout 2010
