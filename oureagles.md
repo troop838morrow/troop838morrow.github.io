@@ -3,43 +3,6 @@
 
 
 
-
-
-
-# Steven Hill
-
-
-![Troop](/photos/Steven Hill1.jpeg)
-
-
-Steven Hill - Eagle Scout 2010
-
-1. What are you doing now?
-
-I joined the United States Army for 5 years (Nov 2013 - Nov 2018).  I am getting out as a SGT. 
-My job was a Ranger Qualified Airborne Infantryman.  I deployed once to Afghanistan and was also stationed in Anchorage, Alaska as part of Cco 3/509th IN (ABN). 
-
-2. What was your Eagle project?
-
-My Eagle project was the restoration of a Civil War Battery located in Evergreen Cemetery in Fort Thomas, KY.  I redid all of the landscape, placed a sign giving a brief history of the battery and placed four flag poles that fly the flags of the Army, Navy, Air Force and Marine Corps. 
-
-
-3. What was your favorite troop position and why?
-
-My favorite position was SPL.  I enjoyed being a leader that my peers saw fit to plan and coordinate trips and training.  It helped shape the leader I am today. 
-
-
-4. What are 2-3 of your favorite memories from Boy Scouts?
-
-My favorite Scout memories are from the canoe trip we took for ten days on the Boundary Waters. My second greatest, was all of the time I got to spend with my grandfather as I grew up through Scouts.  The memories I have with him on many scouting trips I will cherish forever. 
-
-
-5. What advice would you give to new scouts?
-
-Take this opportunity and make the best of it.  The skills you learn today as a young man will follow you forever.  Becoming an Eagle Scout and graduating Ranger school are my two proudest accomplishments and I hope the new Scouts will strive to earn Eagle as well.  I hope they will understand how much it will benefit them in the future and will give back to their community. 
-
-
-
 # ZACH BLOW
 
 Q: What are you doing now?
