@@ -8,6 +8,7 @@ body   {
   padding: 0;
   line-height: 1.5;
   font-size: 16px;
+  background-color: khaki;
 }
 
 /* styling our overall page */
@@ -18,8 +19,7 @@ body     {
 
 /* styling our header */
 header   {
-  background: #222;
-  color: #FFF;
+  background-color: khaki
   padding: 20px 30px;
 }
 
@@ -80,24 +80,24 @@ footer img   {
 }
 
 /* styling our main content */
-.hero           {
+.header           {
   min-height: 800px;
   text-align: center;
   background-image: url('../img/sky.jpg');
   background-size: cover;
 }
-.hero-content   {
+.header-content   {
   color: #FFF;
   padding-top: 130px;
 }
-.hero-content h1   {
+.header-content h1   {
   font-size: 100px;
   margin: 0;
 }
-.hero-content p    {
+.header-content p    {
   font-size: 50px;
 }
-.hero-content a    {
+.header-content a    {
   display: inline-block;
   color: #FFF;
   border: 3px solid #FFF;
