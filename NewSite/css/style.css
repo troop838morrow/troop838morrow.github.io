@@ -152,7 +152,7 @@ footer img   {
 }
 .feature-box h5   {
   font-size: 20px;
-  color: #999;
+  color: #375719;
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 2px;
@@ -164,6 +164,14 @@ footer img   {
   display: inline-block;
   width: 33%;
   padding: 20px 30px;
+}
+.info-box h5   {
+  font-size: 20px;
+  color: #375719;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
 }
 .info-content   {
   background: Khaki;
