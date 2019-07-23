@@ -1,7 +1,9 @@
-layout: post
-title:  "We Survived Summercamp!!"
-date:   2019-07-17
-categories: Scout Meetings
+layout	title	date	categories
+post
+We Survived Summercamp!
+2019-07-17
+Scout Meetings
+
 ---
 
 Hello Everyone,
