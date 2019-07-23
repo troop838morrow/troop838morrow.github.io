@@ -1,7 +1,7 @@
 layout: post
 title:  "We Survived Summercamp!!"
 date:   2019-07-17
-categories: General Update
+categories: Scout Meetings
 ---
 
 Hello Everyone,
