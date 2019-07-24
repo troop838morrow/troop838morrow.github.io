@@ -23,6 +23,32 @@ header   {
   padding: 20px 30px;
 }
 
+/* styling our links */
+/* unvisited link */
+a:link {
+  color: #375719;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #375719;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #375719;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #375719;
+  text-decoration: none;
+}
+
+
 /* styling our Navigation Menu */
 .dropbtn {
   background-color: #375719;
@@ -32,6 +58,8 @@ header   {
   border: none;
   cursor: pointer;
 }
+
+
 
 .dropdown {
   position: relative;
