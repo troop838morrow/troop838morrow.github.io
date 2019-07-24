@@ -151,8 +151,10 @@ footer img   {
   min-height: 800px;
   text-align: center;
   background-image: url("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12341.04695426444!2d-84.136325!3d39.350309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5a766202846104b4!2sMorrow+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1493769047745"');
-  background-size: cover;
+  background-size: cover; 
 }
+
+
 .header-content   {
   color: #FFF;
   padding-top: 130px;
