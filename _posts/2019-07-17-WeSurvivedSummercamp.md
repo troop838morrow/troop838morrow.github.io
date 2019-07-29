@@ -14,4 +14,4 @@ We have several events coming up that I want to remind everyone of:
 3. 8/6/19 - National Night Out Parking. We will be providing parking services similar to Valley Vineyards parking at Oeder Lake from 5:30 to 7:30 PM.
 4. 8/9/19 - Planning Campout and ILST Course at Stonelick Campground.
 
-Also, our first meeting of the 2019-2020 school year will be 8/12 @ MUMC. We look forward to kicking off the new year of Scouting and hope to see you there!
+Also, our first meeting of the 2019-2020 school year will be 8/5 @ MUMC. We look forward to kicking off the new year of Scouting and hope to see you there!
