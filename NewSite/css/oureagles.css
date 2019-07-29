@@ -229,7 +229,7 @@ footer img   {
 /* info boxes */
 .info-box   {
   display: inline-block;
-  width: 33%;
+  width: 85%;
   padding: 20px 30px;
 }
 .info-box h5   {
