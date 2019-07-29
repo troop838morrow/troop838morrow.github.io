@@ -1,0 +1,250 @@
+/* resetting browser stuff */
+*     {
+  box-sizing: border-box;
+}
+html,
+body   {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  font-size: 16px;
+  background: white;
+}
+
+/* styling our overall page */
+body     {
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* styling our header */
+header   {
+  background: khaki;
+  padding: 20px 30px;
+}
+
+/* styling our links */
+/* unvisited link */
+a:link {
+  color: #375719;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #375719;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #375719;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #375719;
+  text-decoration: none;
+}
+
+
+/* styling our Navigation Menu */
+.dropbtn {
+  background-color: #375719;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: khaki;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #375719;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #375719;}
+
+
+
+
+/* logo */
+#logo         {
+  display: inline-block;
+  color: #FFF;
+  text-decoration: none;
+  width: 49%;
+}
+#logo img    {
+  width: 50px;
+  border-radius: 3px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+#logo span   {
+  display: inline-block;
+}
+
+/* main navigation */
+nav     {
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+}
+nav ul   {
+  list-style: none;
+  margin: 0;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul li a    {
+  color: #FFF;
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+  border-radius: 3px;
+  transition: 0.3s ease all;
+}
+nav ul li a:hover   {
+  background: #444;
+}
+
+/* styling our footer */
+footer   {
+  background: #222;
+  color: #777;
+  padding: 40px;
+  text-align: center;
+}
+footer img   {
+  display: block;
+  border-radius: 5px;
+  width: 80px;
+  margin: 0 auto 10px;
+}
+
+/* styling our main content */
+.header           {
+  min-height: 800px;
+  text-align: center;
+  /* background-image: url("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12341.04695426444!2d-84.136325!3d39.350309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5a766202846104b4!2sMorrow+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1493769047745"'); */
+  background-size: cover; 
+}
+
+
+.header-content   {
+  color: #FFF;
+  padding-top: 130px;
+}
+.header-content h1   {
+  font-size: 100px;
+  margin: 0;
+}
+.header-content p    {
+  font-size: 50px;
+}
+.header-content a    {
+  display: inline-block;
+  color: #FFF;
+  border: 3px solid #FFF;
+  border-radius: 3px;
+  padding: 15px 30px;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+/* basic site sections */
+.site-section   {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.site-section-secondary   {
+  background: #375719;
+}
+.site-section-inside   {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.section-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.section-header h2  {
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: khaki;
+}
+.section-header p   {
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: #375719;
+}
+
+/* feature boxes */
+.feature-box   {
+  display: inline-block;
+  width: 33%;
+  padding: 20px 30px;
+}
+.feature-box img  {
+  margin-bottom: 12px;
+  width: 80px;
+}
+.feature-box h5   {
+  font-size: 20px;
+  color: #375719;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+/* info boxes */
+.info-box   {
+  display: inline-block;
+  width: 33%;
+  padding: 20px 30px;
+}
+.info-box h5   {
+  font-size: 20px;
+  color: #375719;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+}
+.info-content   {
+  background: Khaki;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
