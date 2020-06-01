@@ -12,10 +12,20 @@ us with a new opportunity. Please see the details below
 ***************************************************************************
 
 BSA TROOP 838 OPEN HORSE SHOW
-All proceeds go to Troop 838’s goal of buying a NEW trailer Warren County Fairgrounds Lebanon, Ohio June 20, 2020 9AM-? JUDGE: TBA
+
+All proceeds go to Troop 838’s goal of buying a NEW trailer
+
+Warren County Fairgrounds Lebanon, Ohio June 20, 2020 9AM-?
+
+JUDGE: TBA
+
 $5 per horse office fee early entry/$7 day of show
-$5 Email entry (via email before 9pm June 18)/$7 day of the show $10 Email Entry payback classes $40 $30 $20 $10 provided 10 are are in the class/ $12 day of the show
-in the class. Under 10 payback at 50% provided 5
+
+$5 Email entry (via email before 9pm June 18)/$7 day of the show
+
+$10 Email Entry payback classes $40 $30 $20 $10 provided 10 are are in the class/ $12 day of the show
+in the class. Under 10 payback at 50% provided 5 are in the class/ $12 day of the show
+
 1. 10-13 English Showmanship
 2. 14-18 English Showmanship
 3. 19 & Over Showmanship W/E
